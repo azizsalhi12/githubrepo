@@ -1,0 +1,33 @@
+{
+  "user1": {
+    "id":1,
+    "firstname":"Munonye",
+     "email":"kany@gmail.com",
+        "dateofbirth":"19,mars ,1999",
+         "password":"12345678"
+  },
+
+  "user2":  {
+    "id":2,
+    "firstname":"Imolode",
+    "dateofbirth":"18,juin ,1999",
+    "email":"saffron@gmail.com",
+     "password":"1234567"
+  },
+
+  "user3":  {
+    "id":3,
+    "firstname":"Munonye",
+    "dateofbirth":"19,juin ,1999",
+    "email":"othniel@gmail.com",
+      "password":"123456"
+  },
+
+  "user4": {
+    "id":4,
+    "firstname":"Yuba",
+      "dateofbirth":"19,juin ,1999",
+    "email":"oleander@gmail.com",
+    "password":"12345"
+  }
+}
